@@ -1,0 +1,8 @@
+C:\Users\Den\Desktop\Me Game\Game\bin\Debug\Game.exe.config
+C:\Users\Den\Desktop\Me Game\Game\bin\Debug\Game.exe
+C:\Users\Den\Desktop\Me Game\Game\bin\Debug\Game.pdb
+C:\Users\Den\Desktop\Me Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Den\Desktop\Me Game\Game\obj\Debug\Game.exe
+C:\Users\Den\Desktop\Me Game\Game\obj\Debug\Game.pdb
+C:\Users\Den\Desktop\Me Game\Game\obj\Debug\Game.GameFolder.Misc.Music.resources
+C:\Users\Den\Desktop\Me Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
